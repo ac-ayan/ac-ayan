@@ -15,7 +15,9 @@
 - 😄 Pronouns: ac-ayan
 - ⚡ Fun fact :
 
-![](https://github-readme-stats.vercel.app/api?username=ac-ayan)
+![Ayan's github stats](https://github-readme-stats.vercel.app/api?username=ac-ayan)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ac-ayan&layout=compact)
 <!--
 **ac-ayan/ac-ayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
