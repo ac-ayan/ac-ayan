@@ -13,7 +13,9 @@
 - 💬 Ask me about my projects
 - 📫 How to reach me: 📧 ayanac5741@gmail.com
 - 😄 Pronouns: ac-ayan
-- ⚡ Fun fact: 
+- ⚡ Fun fact :
+
+![](https://github-readme-stats.vercel.app/api?username=ac-ayan)
 <!--
 **ac-ayan/ac-ayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
