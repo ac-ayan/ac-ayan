@@ -17,7 +17,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ac-ayan&layout=compact)
 
-#### <img src="https://raw.githubusercontent.com/ac-ayan/image-assets/a8631a6b261e1caf3dc700145319757f2af10ad8/google-icon.svg" width=25 height=20> Google IT Support Professional Certificate Holder
+#### <img src="https://raw.githubusercontent.com/ac-ayan/image-assets/a8631a6b261e1caf3dc700145319757f2af10ad8/google-icon.svg" width=25 height=20> [Google IT Support Professional Certificate Holder](https://www.youracclaim.com/badges/a0ce01a6-e234-4f57-8c13-27e3c426e7a2?source=linked_in_profile)
+
 
 <!--
 **ac-ayan/ac-ayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
