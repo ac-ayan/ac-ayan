@@ -6,7 +6,7 @@
 > Kalinga Institute of Industrial Technology
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on android apps
 - 🌱 I’m currently learning app development with flutter
 - 👯 I’m looking to collaborate on open-source-projects
 - 🤔 I’m looking for help to contribute on open-source projects
