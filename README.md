@@ -16,6 +16,9 @@
 - ⚡ Fun fact :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ac-ayan&layout=compact)
+
+#### <img src="https:\\cdn.worldvectorlogo.com\logos\google-icon.svg" width=25 height=20> Google IT Support Professional Certificate Holder
+
 <!--
 **ac-ayan/ac-ayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
