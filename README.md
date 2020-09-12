@@ -1,4 +1,3 @@
-## ABOUT ME !
 ### <img src="https://github.com/ac-ayan/image-assets/blob/master/cover.png?raw=true">
 #### AYAN CHAKRABORTY, 
 
