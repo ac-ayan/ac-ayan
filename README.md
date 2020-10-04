@@ -1,4 +1,3 @@
-### <img src="https://github.com/ac-ayan/image-assets/blob/master/cover.png?raw=true" height=200 >
 #### AYAN CHAKRABORTY, 
 
 > B.Tech in Computer Science and Engineering
