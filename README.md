@@ -47,7 +47,7 @@ I also love to contribute to **open-source** 🎯  and actively take part in dif
   </a>
  </p>
  
-  ### DataBase Technology
+  ### DataBase Technologies
  
  <p float="left">
   <a href="https://www.docker.com/" target="_blank" >
