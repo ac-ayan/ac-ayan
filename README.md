@@ -16,7 +16,7 @@ I also love to contribute to **open-source** 🎯  and actively take part in dif
 
 ## Skills ♟️
 
-### Web Development Technologies
+### Web Development Tecnologies
 
 <p float="left">
   
