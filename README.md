@@ -25,7 +25,7 @@ Do reach out to me at **ayanchakraborty.inbox@gmail.com** if you like to have a 
   </a>
   &nbsp&nbsp
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://github.com/ac-ayan/image-assets/blob/master/expressjs.png"  height="60" />
+    <img src="https://github.com/ac-ayan/image-assets/blob/master/expjs.png"  height="60" />
   </a>
     &nbsp&nbsp
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
