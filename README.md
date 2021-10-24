@@ -5,9 +5,9 @@
 ## Hi there 👋
 
 I’m **AYAN**, a pre-final year **B.Tech CSE**, undergraduate student at **Kalinga Institute of Industrial Technology, BBSR, India.**<br>
-Do reach out to me at **ayanchakraborty.inbox@gmail.com** if you like to have a conversation regarding tech, projects, internships, jobs.
+Do reach out to me at **ayanchakraborty.inbox@gmail.com** 📫 if you like to have a conversation regarding tech, projects, internships, jobs.
 
-## Skills
+## Skills ♟️
 
 ### Web Development Technologies
 
