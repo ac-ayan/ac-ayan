@@ -7,7 +7,7 @@ Do reach out to me at **ayanchakraborty.inbox@gmail.com** if you like to have a 
 
 ## Skills
 
-#### Web Development Technologies
+### Web Development Technologies
 
 <p float="left">
   
@@ -26,7 +26,7 @@ Do reach out to me at **ayanchakraborty.inbox@gmail.com** if you like to have a 
     <img src="https://github.com/ac-ayan/image-assets/blob/master/3js.png"  height="60" />
  </p>
  
- #### Programming Languages
+ ### Programming Languages
  
  <p float="left">
   <a href="https://www.docker.com/" target="_blank" >
@@ -38,10 +38,10 @@ Do reach out to me at **ayanchakraborty.inbox@gmail.com** if you like to have a 
   </a>
  </p>
  
-  #### DataBase Technology
+  ### DataBase Technology
  
  <p float="left">
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://github.com/ac-ayan/image-assets/blob/master/mongodb.png"  height="60" width="100" /> 
+    <img src="https://github.com/ac-ayan/image-assets/blob/master/mongodb.png"  height="40" /> 
   </a>
  </p>
