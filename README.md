@@ -3,7 +3,7 @@
 
 __I’m **AYAN**, a pre-final year **B.Tech CSE**, undergraduate student at **Kalinga Institute of Industrial Technology, BBSR, India.**<br>
 I'm a pationate **full-stack web developer** and a **competitive coder**.<br>
-Do reach out to me at **ayanchakraborty.inbox@gmail.com** 📫 if you like to have a conversation regarding tech, projects, internships, jobs.
+Do reach out to me at **ayanchakraborty.inbox@gmail.com** 📫 if you like to have a conversation regarding tech, projects, internships, jobs.__
 
 <img src="https://github.com/ac-ayan/image-assets/blob/master/coverpage.png">
   
