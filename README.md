@@ -4,3 +4,20 @@
   
 Hi there! I’m **AYAN CHAKRABORTY**, a pre-final year **B.Tech CSE**, undergraduate student at **Kalinga Institute of Industrial Technology, BBSR, India.**<br>
 Do reach out to me at **ayanchakraborty.inbox@gmail.com** if you like to have a conversation regarding tech, projects, internships, jobs.
+
+## Skills
+
+<p float="left">
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://github.com/ac-ayan/image-assets/blob/master/html-css.png"  height="60" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://github.com/ac-ayan/image-assets/blob/master/js.gif"  height="60" /> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="60" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="60" />
+  </a>
+ </p>
