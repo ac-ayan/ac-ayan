@@ -5,6 +5,10 @@ I’m **AYAN**, a pre-final year **B.Tech CSE**, undergraduate student at **Kali
 I'm a pationate **full-stack web developer** and a **competitive coder**.<br>
 Do reach out to me at **ayanchakraborty.inbox@gmail.com** 📫 if you like to have a conversation regarding tech, projects, internships, jobs.
 
+<img src="https://github.com/ac-ayan/image-assets/blob/master/coverpage.png">
+<a href="https://dev.to/acayan">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="AYAN CHAKRABORTY's DEV Profile" height="30" width="30"></a>
+
 ## Skills ♟️
 
 ### Web Development Technologies
