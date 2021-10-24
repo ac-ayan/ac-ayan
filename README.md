@@ -1,6 +1,8 @@
-<img src="https://github.com/ac-ayan/image-assets/blob/master/61947-loading-404-ufo.gif" height="150" /><br>
+<img align="right" src="https://github.com/ac-ayan/image-assets/blob/master/61947-loading-404-ufo.gif" width="200" height="200" />
+
 ### Hi there 👋 
-I’m **AYAN**, a pre-final year **B.Tech CSE**, undergraduate student at **Kalinga Institute of Industrial Technology, BBSR, India.** 🎓<br>
+
+I’m AYAN**, a pre-final year **B.Tech CSE**, undergraduate student at **Kalinga Institute of Industrial Technology, BBSR, India.** 🎓
 I'm a pationate **full-stack web developer** and a **competitive coder**.<br>
 Do reach out to me at **ayanchakraborty.inbox@gmail.com** 📫 if you like to have a conversation regarding tech, projects, internships, jobs.
 
