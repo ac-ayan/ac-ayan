@@ -7,7 +7,8 @@ Do reach out to me at **ayanchakraborty.inbox@gmail.com** 📫 if you like to ha
 
 <img src="https://github.com/ac-ayan/image-assets/blob/master/coverpage.png">
   
-I love being part of different communities and engaging myself in different community works. Presently I’m associated with **MSC KIIT**, technical team.<br>
+I love being part of different communities and engaging myself in different community works.<br>
+Presently I’m associated with **MSC KIIT**, technical team.<br>
 I also love to contribute to **open-source** 🎯  and actively take part in different open-source contribution events.
 
 <a href="https://dev.to/acayan">
