@@ -6,10 +6,10 @@ I'm a pationate **full-stack web developer** and a **competitive coder**.<br>
 Do reach out to me at **ayanchakraborty.inbox@gmail.com** 📫 if you like to have a conversation regarding tech, projects, internships, jobs.
 
 <img src="https://github.com/ac-ayan/image-assets/blob/master/coverpage.png">
-<a href="https://dev.to/acayan">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="AYAN CHAKRABORTY's DEV Profile" height="30" width="30"></a>
   
 I love being part of different communities and engaging myself in different community works. Presently I’m associated with **MSC KIIT**, technical team.I also love to contribute to open-source  and actively take part in different open-source contribution events.
+<a href="https://dev.to/acayan">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="AYAN CHAKRABORTY's DEV Profile" height="30" width="30"></a>
 
 ## Skills ♟️
 
