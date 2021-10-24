@@ -11,13 +11,28 @@ Do reach out to me at **ayanchakraborty.inbox@gmail.com** if you like to have a 
   <a href="https://golang.org/" target="_blank" >
     <img src="https://github.com/ac-ayan/image-assets/blob/master/html-css.png"  height="60" />
   </a>
+  &nbsp&nbsp
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://github.com/ac-ayan/image-assets/blob/master/js.gif"  height="60" /> 
   </a>
+  &nbsp&nbsp
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="60" />
+    <img src="https://github.com/ac-ayan/image-assets/blob/master/react.gif"  height="60" />
   </a>
+  &nbsp&nbsp
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="60" />
+    <img src="https://github.com/ac-ayan/image-assets/blob/master/nodejs.png"  height="60" />
+  </a>
+  &nbsp&nbsp
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://github.com/ac-ayan/image-assets/blob/master/expressjs.png"  height="60" />
+  </a>
+    &nbsp&nbsp
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://github.com/ac-ayan/image-assets/blob/master/webgl.png"  height="60" />
+  </a>
+   &nbsp&nbsp
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://github.com/ac-ayan/image-assets/blob/master/threejs.png"  height="60" />
   </a>
  </p>
