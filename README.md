@@ -47,5 +47,5 @@ I also love to contribute to **open-source** 🎯  and actively take part in dif
   ### DataBase Technologies
  
  <p float="left">
-    <img src="https://github.com/ac-ayan/image-assets/blob/master/Mongodatabase.svg"  height="40" /> 
+    <img src="https://github.com/ac-ayan/image-assets/blob/master/Mongodatabase.svg"  height="60" /> 
  </p>
