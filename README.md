@@ -39,19 +39,13 @@ I also love to contribute to **open-source** 🎯  and actively take part in dif
  ### Programming Languages
  
  <p float="left">
-  <a href="https://www.docker.com/" target="_blank" >
     <img src="https://github.com/ac-ayan/image-assets/blob/master/c.png"  height="60" /> 
-  </a>
   &nbsp&nbsp
-    <a href="https://golang.org/" target="_blank" >
     <img src="https://github.com/ac-ayan/image-assets/blob/master/c%2B%2B.png"  height="60" />
-  </a>
  </p>
  
   ### DataBase Technologies
  
  <p float="left">
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://github.com/ac-ayan/image-assets/blob/master/mongodb.png"  height="40" /> 
-  </a>
+    <img src="https://github.com/ac-ayan/image-assets/blob/master/Mongodatabase.svg"  height="40" /> 
  </p>
