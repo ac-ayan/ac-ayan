@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/ac-ayan/image-assets/blob/master/emoji-3_adobespark.png" width="200" height="200" />
+<img align="right" src="https://github.com/ac-ayan/image-assets/blob/master/emoji-1_adobespark.png" width="200" height="200" />
 
 ### Hi there 👋 
 
