@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/ac-ayan/image-assets/blob/master/61947-loading-404-ufo.gif" width="200" height="200" />
+<img align="right" src="https://github.com/ac-ayan/image-assets/blob/master/emoji-1.jpg" width="200" height="200" />
 
 ### Hi there 👋 
 
