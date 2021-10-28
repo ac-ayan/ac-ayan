@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/ac-ayan/image-assets/blob/master/blue-emoji-2.png" width="200" height="200" />
+<img align="right" src="https://github.com/ac-ayan/image-assets/blob/master/blue-emoji-3.png" width="200" height="200" />
 
 ### Hi there 👋 
 
